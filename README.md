@@ -5,7 +5,7 @@ iPr-Jailbreak-Repo is a collection of state-of-the-art, novel, exciting jailbrea
 
 ## Reference
 
-If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles:
+If you find this repository helpful for your research, we would greatly appreciate it if you could cite our papers. :sparkles: Dr. UT 
 
 ```
 @article{liuyue_GuardReasoner,
